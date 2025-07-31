@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm ASIRI" title="👋 Hi there! I'm reza"/>
-
 # Hey 👋 I'm Lahiru Asiri
 
 Welcome to my GitHub! I'm an undergraduate at SLIIT, passionate about building modern web apps with the **MERN** stack and exploring various programming technologies.
@@ -178,12 +176,6 @@ Welcome to my GitHub! I'm an undergraduate at SLIIT, passionate about building m
   <br/>
   <img src="https://komarev.com/ghpvc/?username=lahiru-asiri&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </details>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lahiru-asiri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
