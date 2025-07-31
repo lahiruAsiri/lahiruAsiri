@@ -183,50 +183,5 @@ Welcome to my GitHub! I'm an undergraduate at SLIIT, passionate about building m
 
 Explore my repositories, collaborate on projects, or reach out to discuss tech! I'm always excited to learn and share knowledge.
 
-<style>
-/* Fade-in animation for sections */
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-h1, h2, p, div, table, details {
-  animation: fadeIn 1s ease-out;
-}
-
-/* Hover animation for icons and badges */
-.animate-icon, a > img {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.animate-icon:hover, a > img:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-/* Modern styling */
-h1, h2 {
-  color: #2c3e50;
-  font-family: 'Arial', sans-serif;
-}
-
-p {
-  color: #34495e;
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-}
-
-table {
-  margin: 20px 0;
-}
-
-/* Center social badges */
-div {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  margin: 20px 0;
-}
-</style>
 
 <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Dino Animation" style="display: block; margin: 20px auto;">
