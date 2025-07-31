@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Hi there! I'm Lahiru" title="👋 Hi there! I'm Lahiru" width="300"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm ASIRI" title="👋 Hi there! I'm reza"/>
 
 # Hey 👋 I'm Lahiru Asiri
 
